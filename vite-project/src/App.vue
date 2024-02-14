@@ -2,18 +2,13 @@
 </script>
 
 <template>
-
+<h3>Genshin Impact Wishing Simulator</h3>
+<!-- nav bar/switchy thing possibly goes here -->
 </template>
 
 <style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
+h3{
+  font-size: 500%;
 }
 
 nav {
