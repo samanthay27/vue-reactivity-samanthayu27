@@ -1,14 +1,17 @@
 <script setup>
+import { RouterLink, RouterView } from 'vue-router'
+
 </script>
 
 <template>
-<h3>Genshin Impact Wishing Simulator</h3>
-<!-- nav bar/switchy thing possibly goes here -->
+<h3 class="header">Genshin Impact Wishing Simulator</h3>
+<RouterView />
 </template>
 
 <style scoped>
-h3{
-  font-size: 500%;
+.header{
+  font-size: 50px;
+  text-align: center;
 }
 
 nav {

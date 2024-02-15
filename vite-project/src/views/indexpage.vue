@@ -13,7 +13,7 @@ import indexcard from "@/components/indexcard.vue";
 
 const thepool = [
     {
-        name: "Albedo",
+        name: "Albedos",
         wishimg: 'https://genshin.honeyhunterworld.com/img/ningguang_027_gacha_card.webp?x28602',
         profileimg: 'https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Albedo_icon.png',
         cardimg: 'https://genshin.honeyhunterworld.com/img/albedo_038_gacha_card.webp?x28602',
@@ -1488,10 +1488,10 @@ const thepool = [
         cardimg: 'https://genshin.honeyhunterworld.com/img/i_n14509_gacha_icon.webp?x28602',
         type: "Catalyst",
         desc: "",
-        birthday: "",
-        obtainableby: "",
-        title: "",
-        altname: "",
+        birthday: null,
+        obtainableby: "Weapon Banner",
+        title: null,
+        altname: null,
         constellation: null,
         stars: "5",
         standard: false
@@ -1502,11 +1502,11 @@ const thepool = [
         profileimg: 'https://genshin.honeyhunterworld.com/img/i_n14502.webp?x28602',
         cardimg: 'https://genshin.honeyhunterworld.com/img/i_n14502_gacha_icon.webp?x28602',
         type: "Catalyst",
-        desc: "",
-        birthday: "",
-        obtainableby: "",
-        title: "",
-        altname: "",
+        desc: "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+        birthday: null,
+        obtainableby: "Weapon and Standard Banner",
+        title: null,
+        altname: null,
         constellation: null,
         stars: "5",
         standard: true
